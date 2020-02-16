@@ -21,7 +21,7 @@ namespace grpctest
             Console.ReadKey();
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("new");
+            Console.WriteLine("newnew");
         }
     }
 }
