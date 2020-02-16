@@ -20,6 +20,8 @@ namespace grpctest
             Console.WriteLine("任意键退出...");
             Console.ReadKey();
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("ddd");
         }
     }
 }
